@@ -1,1 +1,1 @@
-0.3.0.91
+Version $honeycombVersionMajor.$honeycombVersionMinor.$honeycombVersionMicro.$honeycombVersionCode-$honeycombGitCommitHash
