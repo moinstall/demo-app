@@ -1,4 +1,4 @@
-Version 0.3.0.176-ec741c3
+Version 0.3.0.175-d774e02
 
  > Share link: https://www.dropbox.com/s/56kc0hfz9n7dwg1/honeycomb-sample-debug-0.3.0.175.apk?dl=0
 
