@@ -1,10 +1,3 @@
 Version 0.3.0.175-d774e02
 
- > Share link: https://www.dropbox.com/s/56kc0hfz9n7dwg1/honeycomb-sample-debug-0.3.0.175.apk?dl=0
-
- > Share link: https://www.dropbox.com/s/awb3vghbtr7vaev/honeycomb-sample-release-0.3.0.175.apk?dl=0
-
- > Share link: https://www.dropbox.com/s/kaqsvbuet7dbud9/honeycomb-test-debug-0.3.0.175.apk?dl=0
-
- > Share link: https://www.dropbox.com/s/c2arz2wmrj5q36s/honeycomb-test-release-0.3.0.175.apk?dl=0
-
+[honeycomb-sample-debug](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-sample-debug?Expires=1438252576&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=S9aHJzSeS5AcFUjgCEymzf7Mykw[honeycomb-sample-release](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-sample-release?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1438252821&Signature=eBcbF5eeIo6pBfuRVYAaTmiih0.0000004[honeycomb-test-debug](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-test-debug?Signature=iK9rWfe5RxdBosXEhuLfjEtqd58[honeycomb-test-release](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-test-release?Signature=De
