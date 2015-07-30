@@ -1,10 +1,10 @@
-Version 0.3.0.198-5303abe
+Version 0.3.0.200-9a7e40a
 
-* [honeycomb-sample-debug](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-sample-debug?Signature=KKlgRxQ0ZQel%2BZ58IQF4GoxIooE%3D&Expires=1438281619&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
+* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1438290472&Signature=d5Q1Ve6Pgnex6d7K8IxS22MGl2g%3D)
 
-* [honeycomb-sample-release](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-sample-release?Expires=1438281904&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=LXN1jiDBGZjsgcsZ8Fd9hyykL3U%3D)
+* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=xw4J%2FmqPzHsTgsIPu3jEL6h3M9Q%3D&Expires=1438290718)
 
-* [honeycomb-test-debug](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-test-debug?Expires=1438281938&Signature=mpESei4qo4%2BudZJ6SCui0UgY7UM%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
+* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?Signature=iunJkPLauihjYrUuHSqUWSWKgd4%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1438290759)
 
-* [honeycomb-test-release](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-test-release?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=RpBO%2FOaxclZr7n%2B2miRh5P2jQgg%3D&Expires=1438281967)
+* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?Expires=1438290789&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=HeA27WifPkCd31RhcyTNPNN0nTg%3D)
 
