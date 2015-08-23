@@ -1,12 +1,12 @@
 # Unified Publisher API 
 
- Version 0.4.0.244-9574a16
+ Version 0.4.0.303-4e0322a
 
-* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1442437030&Signature=GlkPOVRGAhJ5nzzq%2B928xfxhvcE%3D)
+* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=IlafjD8%2FF%2FPKT4UHPxFtgM%2Famh4%3D&Expires=1442780506)
 
-* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?Expires=1442437226&Signature=Ez2FjWhARQn6igcVsRuqPqXH5tk%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
+* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1442780731&Signature=Xd9G3OTYCM4YUiXSeLQ1Z%2BDZ%2FH8%3D)
 
-* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1442437254&Signature=Q6M1jTMUygk6ZJaHVJfOTy9hnMI%3D)
+* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1442780761&Signature=HtmZXB0DX%2F19BWGXk5ZmhzkoZU8%3D)
 
-* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=9dxgDP1bnwvEC1AcEqUpZX%2FHkfw%3D&Expires=1442437282)
+* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=X%2BrQ29fmXwO7KQDzatRYsbRj0DY%3D&Expires=1442780796)
 
