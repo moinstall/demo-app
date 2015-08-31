@@ -1,14 +1,14 @@
 # Unified Publisher API 
 
- Version 0.4.0.344-66bd36b
+ Version 0.4.0.344-999a4f2
 
-* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?Expires=1443268983&Signature=QKIm3nK%2Fwcr1ooz5Bb9I2pNLO%2BQ%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
+* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?Expires=1443470030&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=iP7trZlqBdfFmOHmd6EYtKEgAxk%3D)
 
-* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?Signature=tN%2B8CFStQWK6ngaJ4UAFbn2J3eU%3D&Expires=1443269183&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
+* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?Signature=cHqi%2BQ4A9u%2BlTcyX0os1R9hrzpw%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1443470277)
 
-* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?Signature=yMsD8vXqzbRhGf2%2FtFh%2BnuwU%2Bsc%3D&Expires=1443269210&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
+* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?Signature=ecXhdt5M%2B0pad4QyCLDz6lgfJCs%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1443470306)
 
-* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?Signature=G3p6jLrFXVW%2BkbD2VjJcqWKBaIg%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1443269236)
+* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?Expires=1443470354&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=UYYzhQl9%2BcVRfmfvbJRFyGt9lBY%3D)
 
-* [honeycomb-android.zip](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-android.zip?Expires=1443269444&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=S8m6JqrqGt5fl%2BKBCf7jX2JP%2FpQ%3D)
+* [honeycomb-android.zip](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-android.zip?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1443470589&Signature=G1GJQ%2FDMb%2FykaSvfhNnJHflKYTg%3D)
 
