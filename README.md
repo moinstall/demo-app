@@ -1,14 +1,14 @@
 # Unified Publisher API 
 
- Version 0.4.0.350-0a9d4f8
+ Version 0.5.0.367-8215644
 
-* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?Signature=Dy7vaMfTJmOefPABlFsPR6EwTWk%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1443524588)
+* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?Expires=1444207727&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=OLx4RJKwA8h1d9tWLCI%2B2WCSlsI%3D)
 
-* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?Signature=Pct0ENKZ4GdyJ9C9TxUFQhsuN64%3D&Expires=1443524618&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
+* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?Signature=48MvpR3iF3FCd87Jcutxt6qKW2o%3D&Expires=1444207756&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
 
-* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?Expires=1443524630&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=ROqFN81ddc8zi85KPEB2UZHk2fk%3D)
+* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?Expires=1444207762&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=5c26yEn%2FMnSaWcE7DZmtqkQ1TT0%3D)
 
-* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=TKexh3CjYQRS3muKl7X%2FJLelw6U%3D&Expires=1443524640)
+* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?Expires=1444207768&Signature=Mjz%2BHZ8kNo7TdJiCgE0avWKeAGc%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
 
-* [honeycomb-android.zip](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-android.zip?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=eoqYyeH1%2B0h65GAwA2COnGDulig%3D&Expires=1443524734)
+* [honeycomb-android.zip](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-android.zip?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1444207798&Signature=MmbX%2BwPg%2Bl7ExFFWrAPe0KB8SE8%3D)
 
