@@ -1,14 +1,14 @@
 # Unified Publisher API 
 
- Version 0.5.0.367-8215644
+ Version 0.5.0.398-cb185d9
 
-* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?Expires=1444207727&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=OLx4RJKwA8h1d9tWLCI%2B2WCSlsI%3D)
+* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?Expires=1444252828&Signature=ZRYqNdIdYxaQtFC0LU5nOugyX4c%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
 
-* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?Signature=48MvpR3iF3FCd87Jcutxt6qKW2o%3D&Expires=1444207756&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
+* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?Signature=ENnJROd1EPeM%2FLmXLBS2fGNioC0%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1444253086)
 
-* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?Expires=1444207762&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=5c26yEn%2FMnSaWcE7DZmtqkQ1TT0%3D)
+* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1444253127&Signature=DwZIlqq5bqkbGkS26apT5c055bc%3D)
 
-* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?Expires=1444207768&Signature=Mjz%2BHZ8kNo7TdJiCgE0avWKeAGc%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
+* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?Signature=EN%2FVcWo6RqdNgsg94rJFz5er2F8%3D&Expires=1444253173&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
 
-* [honeycomb-android.zip](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-android.zip?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1444207798&Signature=MmbX%2BwPg%2Bl7ExFFWrAPe0KB8SE8%3D)
+* [honeycomb-android.zip](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-android.zip?Signature=5bqeSOo%2FOOmiVJRZiGWXyhqu5xo%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1444253470)
 
