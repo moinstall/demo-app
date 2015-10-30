@@ -1,14 +1,14 @@
 # Unified Publisher API 
 
- Version 0.5.0.431-b3d4f11
+ Version 0.6.0.458-cde63e5
 
-* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=DfAy2hI0KD%2FLlwB%2FbcALmA4IkoM%3D&Expires=1445946537)
+* [hc-sample-cocos2dx-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-debug.apk?Expires=1448642019&Signature=afaJTbwEWmtWExdc9EIk%2BibRRt0%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA)
 
-* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=9yAFVD1HXc%2BfTaqmOO5HVgxVCrY%3D&Expires=1445946567)
+* [hc-sample-cocos2dx-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-cocos2dx-release.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1448642211&Signature=AtJzPERmlFVO3PCqW1CZ8GUXELQ%3D)
 
-* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?Signature=u8Scj99%2BXog2yYGGkamfkJ21L0Q%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1445946575)
+* [hc-sample-java-debug.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-debug.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=cOj2LVevPVTwi5ZklSxbbynKryc%3D&Expires=1448642241)
 
-* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1445946582&Signature=x4SFwNUk%2B00CofuWtLVvpbbjfqc%3D)
+* [hc-sample-java-release.apk](https://honeycomb-bucket.s3.amazonaws.com/hc-sample-java-release.apk?Expires=1448642273&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=OcEf%2BtAQ2pCIa5xHdLU%2ByaSdFS0%3D)
 
-* [honeycomb-android.zip](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-android.zip?Signature=Df0vtvKzzVc273bu0uMwoFME7e0%3D&AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Expires=1445946615)
+* [honeycomb-android.zip](https://honeycomb-bucket.s3.amazonaws.com/honeycomb-android.zip?AWSAccessKeyId=AKIAIGXRM4NA6YIFQINA&Signature=CDx1l3SHlDenNr8YCciXwP%2FGon4%3D&Expires=1448642480)
 
